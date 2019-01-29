@@ -1,16 +1,16 @@
-- tools/pocolog_cpp:
-    github: gustavoneves12/tools-pocolog_cpp
-    branch: fix_segmentation_fault
-- gui/vizkit:
-    github: Brazilian-Institute-of-Robotics/gui-vizkit
-- gui/vizkit3d:
-    github: Brazilian-Institute-of-Robotics/gui-vizkit3d
-- gui/control_ui:
-    github: Brazilian-Institute-of-Robotics/gui-control_ui
-- gui/robot_model:
-    github: Brazilian-Institute-of-Robotics/gui-robot_model
-- drivers/transformer:
-    github: Brazilian-Institute-of-Robotics/drivers-transformer
-    branch: roby3
-- control/kdl_parser:
-    github: Brazilian-Institute-of-Robotics/control-kdl_parser
+# - tools/pocolog_cpp:
+#     github: gustavoneves12/tools-pocolog_cpp
+#     branch: fix_segmentation_fault
+# - gui/vizkit:
+#     github: rock-gui/gui-vizkit
+# - gui/vizkit3d:
+#     github: rock-gui/gui-vizkit3d
+# - gui/control_ui:
+#     github: rock-gui/gui-control_ui
+# - gui/robot_model:
+#     github: rock-gui/gui-robot_model
+# - drivers/transformer:
+#     github: Brazilian-Institute-of-Robotics/drivers-transformer
+#     branch: roby3
+# - control/kdl_parser:
+#     github: rock-control/control-kdl_parser
